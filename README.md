@@ -112,7 +112,7 @@ This helps analyze the trade-off between:
 
 ### Network Allocation Dashboard
 
-![Dashboard](images/dashboard.pdf)
+![Dashboard](images/dashboard.png)
 
 ---
 
@@ -142,7 +142,7 @@ solar-network-optimization-milp/
 │   └── network_solar.pbix
 │
 ├── images/
-│   ├── dashboard.pdf
+│   ├── dashboard.png
 │   └── sl vs cost tradeoff.png
 │
 ├── README.md
