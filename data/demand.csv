@@ -1,0 +1,26 @@
+S.No,City,Population,Demand MW/Yr,Region
+1,Delhi,"3,20,00,000",145,North
+2,Chandigarh,"12,00,000",18,North
+3,Jaipur,"42,00,000",52,North
+4,Lucknow,"39,00,000",38,North
+5,Kanpur,"31,00,000",30,North
+6,Ahmedabad,"85,00,000",95,West
+7,Mumbai,"2,00,00,000",135,West
+8,Pune,"75,00,000",82,West
+9,Surat,"70,00,000",72,West
+10,Indore,"35,00,000",36,Central
+11,Nagpur,"30,00,000",34,Central
+12,Bhopal,"24,00,000",24,Central
+13,Bengaluru,"1,40,00,000",128,South
+14,Chennai,"1,10,00,000",102,South
+15,Hyderabad,"1,15,00,000",112,South
+16,Coimbatore,"27,00,000",28,South
+17,Kochi,"21,00,000",22,South
+18,Kolkata,"1,50,00,000",76,East
+19,Bhubaneswar,"14,00,000",18,East
+20,Guwahati,"13,00,000",14,East
+21,Patna,"29,00,000",21,East
+22,Ranchi,"17,00,000",16,East
+23,Visakhapatnam,"23,00,000",27,South
+24,Vijayawada,"17,00,000",20,South
+25,Raipur,"19,00,000",19,Central

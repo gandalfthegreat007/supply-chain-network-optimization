@@ -1,0 +1,6 @@
+Plant,City,Region,Capacity MW/Month,Fixed Cost/Year,Variable Cost/MW,Annual Capacity
+A,Ahmedabad,West,30,"18,00,00,000","5,00,000",360
+B,Jaipur,North,18,"11,00,00,000","4,50,000",216
+C,Nagpur,Central,15,"9,00,00,000","4,80,000",180
+D,Hyderabad,South,20,"15,00,00,000","4,30,000",240
+E,Chennai,South,15,"14,00,00,000","4,60,000",180

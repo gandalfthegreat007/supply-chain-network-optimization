@@ -1,0 +1,21 @@
+Origin-Destination Pair,Estimated Circuity Factor,Geographical / Infrastructure Context
+West-North,1.22,Fairly direct routing via NH48 and the Golden Quadrilateral.
+West-West,1.25,Intra-region hauls often involve winding local and state highways.
+West-Central,1.2,Direct trunk routes connecting the western ports to central plains.
+West-South,1.28,Higher circuity due to coastal curves and navigating the Western Ghats.
+West-East,1.25,Long-haul routes across the peninsula; mostly straight but with some terrain detours.
+North-North,1.25,Varies based on whether moving through plains (lower) or Himalayan foothills (higher).
+North-West,1.22,Well-developed and straight highway networks connecting these zones.
+North-Central,1.2,Very flat terrain and straightforward central highway connectivity.
+North-South,1.22,The North-South corridor provides a highly direct macro-level route.
+North-East,1.45,High circuity due to the mandatory detour through the Siliguri Corridor (Chicken's Neck) and mountainous terrain.
+Central-North,1.2,Flat terrain allows for near-direct highway paths.
+Central-West,1.2,Direct connections to western industrial hubs.
+Central-Central,1.2,Intra-regional movement in central India is generally flat and direct.
+Central-South,1.22,Standard highway routing with minimal major geographical obstacles.
+Central-East,1.25,"Navigates some mineral-rich, forested, and hilly terrains in the east-central belt."
+South-North,1.22,Utilizes the direct North-South National Highway corridor.
+South-West,1.28,Coastal geography and the Western Ghats necessitate winding routes.
+South-Central,1.22,Direct transition from the Deccan Plateau to central plains.
+South-South,1.25,Intra-regional movement traversing the Deccan Plateau and Ghats.
+South-East,1.28,Impacted by coastal alignments and the Eastern Ghats.
